@@ -12,6 +12,7 @@
 		48E1207D27E21DBA005EDDFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48E1207C27E21DBA005EDDFA /* Assets.xcassets */; };
 		48E1208027E21DBA005EDDFA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48E1207F27E21DBA005EDDFA /* Preview Assets.xcassets */; };
 		48E1208727E21F2F005EDDFA /* HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E1208627E21F2F005EDDFA /* HelloWorld.swift */; };
+		48E1208927E22022005EDDFA /* newFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E1208827E22022005EDDFA /* newFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		48E1207C27E21DBA005EDDFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48E1207F27E21DBA005EDDFA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		48E1208627E21F2F005EDDFA /* HelloWorld.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorld.swift; sourceTree = "<group>"; };
+		48E1208827E22022005EDDFA /* newFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				48E1207827E21DBA005EDDFA /* gitHelpApp.swift */,
 				48E1207A27E21DBA005EDDFA /* ContentView.swift */,
 				48E1208627E21F2F005EDDFA /* HelloWorld.swift */,
+				48E1208827E22022005EDDFA /* newFile.swift */,
 				48E1207C27E21DBA005EDDFA /* Assets.xcassets */,
 				48E1207E27E21DBA005EDDFA /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				48E1207B27E21DBA005EDDFA /* ContentView.swift in Sources */,
 				48E1208727E21F2F005EDDFA /* HelloWorld.swift in Sources */,
+				48E1208927E22022005EDDFA /* newFile.swift in Sources */,
 				48E1207927E21DBA005EDDFA /* gitHelpApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
